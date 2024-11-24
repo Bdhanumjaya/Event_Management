@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Change background color */
+    color: #343a40; /* Change text color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* Change container background color */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff; /* Change heading color */
+}
+
+.card {
+    background-color: #ffffff; /* Change card background color */
+    color: #343a40; /* Change card text color */
+    border: 1px solid #dee2e6; /* Add border */
+}
+
+.card-title {
+    color: #007bff; /* Change card title color */
+}
+
+.card-text {
+    color: #6c757d; /* Change card text color */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Change button background color */
+    border-color: #007bff; /* Change button border color */
+    color: #ffffff; /* Change button text color */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Change button background color on hover */
+    border-color: #0056b3; /* Change button border color on hover */
+}

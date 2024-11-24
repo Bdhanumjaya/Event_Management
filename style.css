@@ -1,0 +1,174 @@
+*{
+    background-color:rgb(22, 26, 75) ; 
+}
+#header{
+    height: 700px;
+
+}
+
+
+#navbar{
+    height: 110px;
+    background-color: black;
+  
+}
+#space{
+    margin-left: 20%;
+}
+a{
+
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    background-color: transparent;
+  margin: 20px;
+  padding-left: 30px;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+  
+  
+  
+}
+a:hover{
+    color: rgb(220, 135, 25);
+}
+#logo{
+    border-radius: 50%;
+    height: 90px;
+
+   margin: 15px;
+
+  
+}
+#joinbutton{
+    margin-left: 10%;
+}
+#text{
+    margin-top: 15%;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#btn{
+    width: 20%;
+    margin: 10px;
+}
+
+#home{
+    height: 720px;
+    color: blanchedalmond;
+    
+}
+
+#Abt{
+
+    color: white;
+
+}
+#abtimg{
+    border-radius: 50%;
+}
+
+#About{
+    height: 700px;
+
+}
+
+/* clients */
+/*===========================
+    clients-01 css 
+===========================*/
+.client-logo-area .section-title-two {
+    text-align: center;
+    max-width: 550px;
+    margin: auto;
+    margin-bottom: 50px;
+    position: relative;
+    z-index: 5;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .client-logo-area .section-title-two {
+      margin-bottom: 45px;
+    }
+  }
+  @media (max-width: 767px) {
+    .client-logo-area .section-title-two {
+      margin-bottom: 35px;
+    }
+  }
+  .client-logo-area .section-title-two span {
+    text-transform: capitalize;
+    color: var(white);
+    background: var(--primary);
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 5px 15px;
+    border-radius: 4px;
+  }
+  .client-logo-area .section-title-two h2 {
+    margin-bottom: 15px;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .client-logo-area .section-title-two h2 {
+      font-size: 2rem;
+      line-height: 2.8rem;
+    }
+  }
+  @media (max-width: 767px) {
+    .client-logo-area .section-title-two h2 {
+      font-size: 1.5rem;
+      line-height: 1.9rem;
+    }
+  }
+  .client-logo-area .section-title-two p {
+    color: var(dark-3);
+  }
+  
+  /*===== Client Logo One =====*/
+  .client-logo-one {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  .client-logo-one .single-client {
+    margin-top: 30px;
+  }
+
+  #clients{
+    height: 700px;
+  }
+
+  #carouselMultiItemExample{
+    height: 700px;
+  }
+
+
+  body {
+    background-color:rgb(22, 26, 75) ; 
+  
+  
+    background: linear-gradient(to right, rgb(22, 26, 75), rgb(22, 26, 75));
+  }
+  .bg-image {
+    background-image: url('https://source.unsplash.com/kKvQJ6rK6S4/660x1000');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  #contact{
+    height: 650px;
+  }
+
+/* responive */
+
+@media (max-width: 600px){
+
+    a{
+        display:none;
+    }
+
+
+
+
+    
+}
+
